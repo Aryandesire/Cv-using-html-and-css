@@ -2,3 +2,9 @@
 # Cv-using-html-and-css
 this is my first repository
 deployment in github link-https://aryandesire.github.io/Cv-using-html-and-css/index.html
+
+## This CV includes following content:
+* Contact information
+* Education qualification & skills
+* Interest
+* Profile
